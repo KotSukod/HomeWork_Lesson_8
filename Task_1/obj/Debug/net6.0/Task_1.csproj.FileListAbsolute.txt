@@ -1,0 +1,15 @@
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\bin\Debug\net6.0\Task_1.exe
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\bin\Debug\net6.0\Task_1.deps.json
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\bin\Debug\net6.0\Task_1.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\bin\Debug\net6.0\Task_1.pdb
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.pdb
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+E:\Учеба\Fullstack-разработка\Fullstack-разработка\Знакомство с языками программирования\Семинары\№ 8\Домашние задание\Task_1\obj\Debug\net6.0\ref\Task_1.dll
